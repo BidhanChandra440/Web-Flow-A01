@@ -76,19 +76,54 @@ nav ul li{
 
 /* main section style */
 
+.main-content{
+    display: flex;
+}
+
+
+
 .Section-name{
     font-size: 40px;
     font-weight: bold;
     color:#252432;
     margin-left: 141px;
+    margin-top: 178px;
 }
 
 .section-description{
     font-size: 24px;
-    color: #252432;
     font-weight: regular;
+    color:#252432;
     margin-left: 141px;
-    margin-right: 141px;
-    margin-top: 20px;
-    margin-bottom: 50px;
+    margin-top: 5px;
+
 }
+
+section ul li{
+
+    list-style: none;
+}
+
+
+
+.button-color3{
+    background-color: #4E47FF;
+    color: white;
+    border: none;
+    padding:10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 100px; 
+    margin-top: 5px;
+}
+
+.preview-image{
+width: 430px ;
+height: 328px ;
+border-radius: 48px;
+    margin-left: 325px;
+    margin-top: 116px;
+}
+
