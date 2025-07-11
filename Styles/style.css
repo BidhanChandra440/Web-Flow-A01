@@ -195,6 +195,8 @@ main{
 
 .reviewer-info{
     display: flex;
+    align-items: center;
+    gap:20px
 }
 
 .review{
@@ -208,6 +210,26 @@ main{
     color: #252432;
     text-align: center;
     margin-top: 137px;
+}
+
+
+.reviewer-info img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.heading1{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #252432;
+    margin-top: 10px;
+}
+.description1{
+    font-size: 16px;
+    font-weight: regular;
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 
