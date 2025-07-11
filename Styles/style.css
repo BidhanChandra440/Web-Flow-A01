@@ -220,18 +220,24 @@ main{
 }
 
 .section-header{
-    font-size: 96px;
+    font-size: 80px;
     font-weight: bold;
     color: #000000;
+    margin-top: 200px;
 
 }
+
+
+
 main  input[type="email"] {
     width: 50%;
-    height: 70px;
+    height: 5px;
     border-radius: 10px;
     border: 1px solid gray;
     padding: 20px;
     font-size: 16px;
-    margin-top: 92px;
+    margin-top: 130px;
 }
+
+
 
